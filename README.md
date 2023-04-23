@@ -2,6 +2,9 @@
 This repo has tools that to aid with the debugging and exploration of smart contracts on the Algorand network.
 
 ## Generate Commands
+
+![Generate commands demo](./images/genDemo.gif)]
+
 One of the challenges to debugging and testing complex contracts on Algorand is reproducing the transactions, especially group transactions.
 
 To run:
